@@ -81,7 +81,9 @@ Input Image            |  Output Segmentation Image
 * Tensorflow ( recommended  version : 2.4.1 )
 
 ```shell
-apt-get install -y libsm6 libxext6 libxrender-dev
+sudo apt-get install -y libsm6 libxext6 libxrender-dev
+```
+```shell
 pip install opencv-python
 ```
 
